@@ -2,7 +2,7 @@
 
 Este proyecto implementa una **Tabla de Ruteo de Red** funcional utilizando una estructura de datos `TablaHash` personalizada (desarrollada en la Parte 1).El sistema simula el comportamiento de un router real (como Cisco o Juniper) para determinar la ruta óptima de paquetes de datos basándose en direcciones IP de destino, máscaras de subred y métricas.
 
-## 📋 Descripción del Proyecto
+##  Descripción del Proyecto
 
 El objetivo principal es aplicar la estructura de datos `HashMap` en un caso de uso real de networking. El simulador permite:
 1.  **Almacenar rutas:** Rutas estáticas, dinámicas (OSPF, BGP) y conectadas directamente.
